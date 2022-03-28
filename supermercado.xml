@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SUPERMERCADOS>
+      <NOMBRE>Lidl</NOMBRE>
+      <DIRECCION>Calle María Estuardo</DIRECCION>
+      <HORARIO>09:00-21:30</HORARIO>
+      <SECCIONES>
+          <NOMBRE>Carniceria</NOMBRE>
+          <PRODUCTOS>
+              <PRODUCTO>Filete de Ternera</PRODUCTO>
+              <TIPO>Añojo</TIPO>
+              <OFERTA>false</OFERTA>
+              <PRECIO>4.85</PRECIO>
+              <UNIDADMEDIDA>Gramos</UNIDADMEDIDA>
+              <VIGENCIA>21/03/22 a 27/05/22</VIGENCIA>
+              <PRODUCTOCONSUMOHABITUAL>true</PRODUCTOCONSUMOHABITUAL>
+              <ADQUIRIDO>false</ADQUIRIDO>
+            </PRODUCTOS>
+            <PRODUCTOS>
+              <PRODUCTO>Pollo</PRODUCTO>
+              <TIPO>Campero</TIPO>
+              <OFERTA>true</OFERTA>
+              <PRECIO>7.25</PRECIO>
+              <UNIDADMEDIDA>Gramos</UNIDADMEDIDA>
+              <VIGENCIA>27/03/22 a 30/05/22</VIGENCIA>
+              <PRODUCTOCONSUMOHABITUAL>true</PRODUCTOCONSUMOHABITUAL>
+              <ADQUIRIDO>true</ADQUIRIDO>
+           </PRODUCTOS>
+        </SECCIONES>
+        <SECCIONES>
+            <NOMBRE>Drogeria</NOMBRE>
+            <PRODUCTOS>
+              <PRODUCTO>Champú</PRODUCTO>
+              <TIPO>Pantene</TIPO>
+              <OFERTA>false</OFERTA>
+              <PRECIO>3.75</PRECIO>
+              <UNIDADMEDIDA>Mililitros</UNIDADMEDIDA>
+              <VIGENCIA>05/01/22 a 27/05/24</VIGENCIA>
+              <PRODUCTOCONSUMOHABITUAL>true</PRODUCTOCONSUMOHABITUAL>
+              <ADQUIRIDO>true</ADQUIRIDO>
+            </PRODUCTOS>
+            <PRODUCTOS>
+              <PRODUCTO>Legía</PRODUCTO>
+              <TIPO>Conejo</TIPO>
+              <OFERTA>true</OFERTA>
+              <PRECIO>0.99</PRECIO>
+              <UNIDADMEDIDA>Mililitros</UNIDADMEDIDA>
+              <VIGENCIA>01/03/19 a 30/05/25</VIGENCIA>
+              <PRODUCTOCONSUMOHABITUAL>true</PRODUCTOCONSUMOHABITUAL>
+              <ADQUIRIDO>false</ADQUIRIDO>
+            </PRODUCTOS>
+        </SECCIONES>
+        <NOMBRE>Mercadona</NOMBRE>
+      <DIRECCION>Carretera de Nijar</DIRECCION>
+      <HORARIO>09:30-21:30</HORARIO>
+      <SECCIONES>
+          <NOMBRE>Carniceria</NOMBRE>
+          <PRODUCTOS>
+              <PRODUCTO>Taco de Lomo</PRODUCTO>
+              <TIPO>Cerdo</TIPO>
+              <OFERTA>true</OFERTA>
+              <PRECIO>6.99</PRECIO>
+              <UNIDADMEDIDA>Gramos</UNIDADMEDIDA>
+              <VIGENCIA>24/03/22 a 229/05/22</VIGENCIA>
+              <PRODUCTOCONSUMOHABITUAL>true</PRODUCTOCONSUMOHABITUAL>
+              <ADQUIRIDO>false</ADQUIRIDO>
+            </PRODUCTOS>
+            <PRODUCTOS>
+              <PRODUCTO>Codorniz</PRODUCTO>
+              <TIPO>Granja</TIPO>
+              <OFERTA>false</OFERTA>
+              <PRECIO>5.15</PRECIO>
+              <UNIDADMEDIDA>Gramos</UNIDADMEDIDA>
+              <VIGENCIA>05/04/22 a 28/05/22</VIGENCIA>
+              <PRODUCTOCONSUMOHABITUAL>false</PRODUCTOCONSUMOHABITUAL>
+              <ADQUIRIDO>false</ADQUIRIDO>
+           </PRODUCTOS>
+        </SECCIONES>
+        <SECCIONES>
+            <NOMBRE>Drogueria</NOMBRE>
+            <PRODUCTOS>
+              <PRODUCTO>Detergente</PRODUCTO>
+              <TIPO>Ariel</TIPO>
+              <OFERTA>true</OFERTA>
+              <PRECIO>7.15</PRECIO>
+              <UNIDADMEDIDA>Mililitros</UNIDADMEDIDA>
+              <VIGENCIA>2 Años</VIGENCIA>
+              <PRODUCTOCONSUMOHABITUAL>true</PRODUCTOCONSUMOHABITUAL>
+              <ADQUIRIDO>true</ADQUIRIDO>
+            </PRODUCTOS>
+            <PRODUCTOS>
+              <PRODUCTO>Gel afeitado</PRODUCTO>
+              <TIPO>Gillette</TIPO>
+              <OFERTA>false</OFERTA>
+              <PRECIO>3.5</PRECIO>
+              <UNIDADMEDIDA>Mililitros</UNIDADMEDIDA>
+              <VIGENCIA>1 Año</VIGENCIA>
+              <PRODUCTOCONSUMOHABITUAL>false</PRODUCTOCONSUMOHABITUAL>
+              <ADQUIRIDO>true</ADQUIRIDO>
+            </PRODUCTOS>
+        </SECCIONES>
+</SUPERMERCADOS>
